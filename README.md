@@ -11,7 +11,7 @@
 dependencies:
   loader:
     git:
-      url: git://github.com/boyan01/loader.git
+      url: git://github.com/jadehh/loader.git
       refs: tags/v0.1.0
 ```
 
