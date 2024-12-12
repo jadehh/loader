@@ -146,10 +146,10 @@ mixin AutoLoadMoreMixin<T> on Model {
             child: Text("加载失败！点击重试"),
             style: ButtonStyle(
                 textStyle: MaterialStateProperty.all(TextStyle(
-                  color: Theme.of(context).primaryTextTheme.bodyText2!.color,
+                  color: Theme.of(context).primaryTextTheme.bodyMedium!.color,
                 )),
                 backgroundColor:
-                    MaterialStateProperty.all(Theme.of(context).errorColor)),
+                    MaterialStateProperty.all(Theme.of(context).colorScheme.error)),
           ),
         ),
       );

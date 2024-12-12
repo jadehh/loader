@@ -12,7 +12,7 @@ dependencies:
   loader:
     git:
       url: git://github.com/jadehh/loader.git
-      refs: tags/v0.1.0
+      refs: c86e4c802d8ef340d139b0cd0cde30c95ecbdc2d
 ```
 
 
