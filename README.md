@@ -11,8 +11,8 @@
 dependencies:
   loader:
     git:
-      url: git://github.com/jadehh/loader.git
-      refs: c86e4c802d8ef340d139b0cd0cde30c95ecbdc2d
+      url: https://github.com/jadehh/loader.git
+      ref: ad77fe94cc203b61e3f337c4110f28debebbe2be
 ```
 
 
